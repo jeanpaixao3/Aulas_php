@@ -1,0 +1,17 @@
+<?php
+
+    $idade1 = 18;
+    $idade2 = 17;
+    $maiorIdade = 18;
+    $msg = "Você é maior idade<br>";
+
+    if($idade1 >= $maiorIdade) {
+        echo $msg;
+       
+    }
+
+
+    if($idade2 >= $maiorIdade) {
+        echo $msg;
+       
+    }
