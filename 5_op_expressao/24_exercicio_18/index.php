@@ -8,6 +8,6 @@
         echo "Operação 2 é verdadeira <br>";
     }
 
-    if(20 === "20" || 51 >= 31 ) {
+    if(20 === "20" && 51 >= 31 ) {
         echo "Operação 3 é verdadeira";
     }
