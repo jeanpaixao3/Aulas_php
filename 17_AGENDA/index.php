@@ -11,10 +11,10 @@
                 <table class="table" id="contacts-table">
                     <thead>
                         <tr>
-                            <td scope="col">#</td>
-                            <td scope="col">Nome</td>
-                            <td scope="col">Telefone</td>
-                            <td scope="col"></td>
+                            <th scope="col">#</th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">Telefone</th>
+                            <th scope="col"></th>
                         </tr>
                     </thead>
                     <tbody>
