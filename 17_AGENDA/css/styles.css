@@ -66,7 +66,7 @@
     margin: 0 auto;
     margin-top: 30px;
 }
-/* SHOW / CONTATO*/
+/* SHOW / CONTATO INDIVIDUAL*/
 
 #view-contact-container {
     max-width: 500px;
@@ -92,4 +92,12 @@
 
 #back-link:hover {
     text-decoration: none;
+}
+
+/*CREATE*/
+#create-form, 
+#edit-form {
+    max-width: 500px;
+    margin: 0 auto;
+
 }
